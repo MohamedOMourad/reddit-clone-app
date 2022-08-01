@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.light {
+  background-color: #dae0e6;
+  color: #000;
+  border: 1px solid #1b1b1b;
+  margin: 0;
+}
+
+/* .light .light-Secondary-color {
+  background-color: #212121;
+  color: #fff;
+} */
+
+/* .dark {
+  min-height: 100vh;
+  background-color: #0d1117;
+  color: #fff;
+  margin: 0;
+} */
+
+/* .dark .dark-Secondary-color {
+  background-color: #161b22;
+  color: #fff;
+} */
+
+/* .nav {
+  top: 0;
+  position: fixed;
+  width: 99vw;
+  z-index: 1000;
+} */
+
+.logo {
+  margin: 0 0 0 10px;
+  max-width: 100px;
+  max-height: 50px;
+}
+
+/* .search-bar{
+  min-width: 500px;
+} */
+/* .card {
+  margin: 50px 0 0 0;
+}
+
+.vote-col{
+  max-width: 50px;
+} */
+
+.icon{
+  border: 1px solid black;
+}
